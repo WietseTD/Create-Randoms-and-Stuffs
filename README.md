@@ -8,6 +8,7 @@ Join the [Discord]() for updates.
 ## Planned Features
 - All Side Gearbox
 - Music Box
+- Invisible Train Track
 - And more
 
 ## Required Mods
