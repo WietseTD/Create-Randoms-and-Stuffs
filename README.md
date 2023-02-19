@@ -10,8 +10,6 @@ Join the [Discord]() for updates.
 - Music Box
 - And more
 
-- and more
-
 ## Required Mods
 - Create
 - Flywheel
