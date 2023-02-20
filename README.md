@@ -1,16 +1,17 @@
-## Create: Randoms & Stuffs
+# About
 An Minecraft create mod addon for some more features.
 Join the [Discord]() for updates.
 
-## Added Features
+#Features
+## Added
 - Soon
 
-## Planned Features
+## Planned
 - All Side Gearbox
 - Music Box
 - Invisible Train Track
 - And more
 
-## Required Mods
+# Required Mods
 - Create
 - Flywheel
